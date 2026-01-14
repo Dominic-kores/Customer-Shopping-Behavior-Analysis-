@@ -28,7 +28,7 @@ Insights are delivered through **Python, SQL, and Power BI** to support data-dri
 ##  Exploratory Data Analysis (EDA) using Python
 - Cleaned and explored data using Pandas  
 - Imputed missing *review_rating* values using **median by product category**  
-- Standardised column names (snake_case)  
+- Standardised column names   
 - Engineered features:
   - `age_group`
   - `purchase_frequency_days`
