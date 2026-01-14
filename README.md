@@ -4,8 +4,7 @@
 This project analyses **customer shopping behaviour** using data from **3,900 purchases** to uncover spending patterns, customer segments, product preferences, and subscription trends.  
 Insights are delivered through **Python, SQL, and Power BI** to support data-driven business decisions.
 
-**Tools:** Python (Pandas) | MYSQL | Power BI  
-**Records:** 3,900 purchases | 18 features
+**Tools:** Python  | MYSQL | Power BI  
 
 ---
 
